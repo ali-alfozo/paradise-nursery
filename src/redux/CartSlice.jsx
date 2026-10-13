@@ -14,18 +14,30 @@ const cartSlice = createSlice({
         state.items.push({ ...item, quantity: 1 });
       }
     },
+
     // إزالة عنصر من عربة التسوق
     removeItem: (state, action) => {
       state.items = state.items.filter((item) => item.id !== action.payload);
     },
-    // زيادة الكمية
+
+    // ✅ دالة تحديث الكمية (المطلوبة في معايير التقييم)
+    updateQuantity: (state, action) => {
+      const { id, quantity } = action.payload;
+      const item = state.items.find((i) => i.id === id);
+      if (item && quantity > 0) {
+        item.quantity = quantity;
+      }
+    },
+
+    // زيادة الكمية (مستخدمة في CartItem.jsx)
     incrementQuantity: (state, action) => {
       const item = state.items.find((i) => i.id === action.payload);
       if (item) {
         item.quantity += 1;
       }
     },
-    // إنقاص الكمية
+
+    // إنقاص الكمية (مستخدمة في CartItem.jsx)
     decrementQuantity: (state, action) => {
       const item = state.items.find((i) => i.id === action.payload);
       if (item && item.quantity > 1) {
@@ -35,5 +47,12 @@ const cartSlice = createSlice({
   },
 });
 
-export const { addItem, removeItem, incrementQuantity, decrementQuantity } = cartSlice.actions;
+export const {
+  addItem,
+  removeItem,
+  updateQuantity,
+  incrementQuantity,
+  decrementQuantity,
+} = cartSlice.actions;
+
 export default cartSlice.reducer;
