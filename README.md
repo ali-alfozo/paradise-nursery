@@ -25,7 +25,7 @@ A modern, fully responsive e-commerce web application for an online plant shop. 
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Screenshots](#-screenshots)
-- [Author](#-author)
+- [Author](#%EF%B8%8F-author)
 ---
 
 ## 🌱 About the Project
