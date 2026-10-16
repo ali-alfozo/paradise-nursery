@@ -18,14 +18,14 @@ A modern, fully responsive e-commerce web application for an online plant shop. 
 
 ## 📖 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Live Demo](#live-demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Author](#author)
+- [About the Project](#-about-the-project)
+- [Live Demo](#-live-demo)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Screenshots](#-screenshots)
+- [Author](#-author-1)
 ---
 
 ## 🌱 About the Project
