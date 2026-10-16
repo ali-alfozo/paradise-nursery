@@ -1,5 +1,5 @@
 export const plantsData = [
-  // Category 1: Indoor Plants
+  // ========== Category 1: Indoor Plants ==========
   {
     id: 1,
     name: 'Snake Plant',
@@ -14,34 +14,120 @@ export const plantsData = [
     category: 'Indoor',
     image: 'https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=400',
   },
-  // Category 2: Outdoor Plants
   {
     id: 3,
+    name: 'Peace Lily',
+    price: 18,
+    category: 'Indoor',
+    image: 'https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=400',
+  },
+  {
+    id: 4,
+    name: 'Rubber Plant',
+    price: 22,
+    category: 'Indoor',
+    image: 'https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=400',
+  },
+  {
+    id: 5,
+    name: 'ZZ Plant',
+    price: 20,
+    category: 'Indoor',
+    image: 'https://images.unsplash.com/photo-1632207691143-643e2a9a9361?w=400',
+  },
+  {
+    id: 6,
+    name: 'Pothos',
+    price: 10,
+    category: 'Indoor',
+    image: 'https://images.unsplash.com/photo-1602923668104-8f9e03e77e62?w=400',
+  },
+
+  // ========== Category 2: Outdoor Plants ==========
+  {
+    id: 7,
     name: 'Fern',
     price: 20,
     category: 'Outdoor',
     image: 'https://images.unsplash.com/photo-1545241047-6083a3684587?w=400',
   },
- {
-    id: 4,
-    name: 'Palm',
+  {
+    id: 8,
+    name: 'Palm Tree',
     price: 25,
     category: 'Outdoor',
     image: 'https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=400',
-},
-  // Category 3: Succulents
+  },
   {
-    id: 5,
+    id: 9,
+    name: 'Lavender',
+    price: 15,
+    category: 'Outdoor',
+    image: 'https://images.unsplash.com/photo-1499002238440-d264edd596ec?w=400',
+  },
+  {
+    id: 10,
+    name: 'Rose Bush',
+    price: 30,
+    category: 'Outdoor',
+    image: 'https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=400',
+  },
+  {
+    id: 11,
+    name: 'Bamboo',
+    price: 28,
+    category: 'Outdoor',
+    image: 'https://images.unsplash.com/photo-1563299796-17596ed6b017?w=400',
+  },
+  {
+    id: 12,
+    name: 'Jasmine',
+    price: 22,
+    category: 'Outdoor',
+    image: 'https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400',
+  },
+
+  // ========== Category 3: Succulents ==========
+  {
+    id: 13,
     name: 'Aloe Vera',
     price: 10,
     category: 'Succulents',
     image: 'https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=400',
   },
   {
-    id: 6,
+    id: 14,
     name: 'Cactus',
     price: 8,
     category: 'Succulents',
     image: 'https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=400',
+  },
+  {
+    id: 15,
+    name: 'String of Pearls',
+    price: 13,
+    category: 'Succulents',
+    image: 'https://images.unsplash.com/photo-1602923668104-8f9e03e77e62?w=400',
+  },
+  {
+    id: 16,
+    name: 'Jade Plant',
+    price: 14,
+    category: 'Succulents',
+    image: 'https://images.unsplash.com/photo-1509937528035-ad76254b0356?w=400',
+  },
+  {
+    id: 17,
+    name: 'Haworthia',
+    price: 9,
+    category: 'Succulents',
+    image: 'https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=400',
+  },
+  {
+    id: 18,
+    name: "Burro's Tail",
+    price: 12,
+    category: 'Succulents',
+    image: 'https://images.unsplash.com/photo-1509223197845-458d87318791?w=400',
   },
 ];
