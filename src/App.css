@@ -187,4 +187,36 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+}/* ===== Responsive Header ===== */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .header .logo a {
+    font-size: 1.3rem;
+    margin-left: 0;
+  }
+
+  .header .navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+  }
+
+  .header .navigation a {
+    margin-left: 0;
+    font-size: 0.95rem;
+  }
+
+  .cart-count {
+    top: -8px;
+    right: -10px;
+    font-size: 0.7rem;
+    padding: 0.15rem 0.4rem;
+  }
 }
