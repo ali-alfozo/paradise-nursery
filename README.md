@@ -153,13 +153,14 @@ npm run build
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/screenshots/landing-page.png)
+![Landing Page](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/landing-page.png)
 
 ### 🌿 Product List
-![Product List](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/screenshots/product-list.png)
+![Product List](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/product-list.png)
 
 ### 🛒 Shopping Cart
-![Shopping Cart](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/screenshots/shopping-cart.png)
+![Shopping Cart](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/shopping-cart.png)
+
 ## 👨‍💻 Author
 **Ali Alfozo**
 - GitHub: [@ali-alfozo](https://github.com/ali-alfozo)
