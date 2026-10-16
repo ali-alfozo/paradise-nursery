@@ -160,7 +160,7 @@ npm run build
 ### 🛒 Shopping Cart
 ![Shopping Cart](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/shopping-cart.png)
 
-## 👨‍💻 Author
+##  Author
 **Ali Alfozo**
 - GitHub: [@ali-alfozo](https://github.com/ali-alfozo)
 - LinkedIn: [Ali Alfozo](https://www.linkedin.com/in/ali-alfozo)
