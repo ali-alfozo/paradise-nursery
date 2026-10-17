@@ -1,0 +1,243 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #2e7d32;
+  color: white;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+  margin-left: 1rem;
+  font-weight: bold;
+}
+
+.cart-link {
+  position: relative;
+}
+
+.cart-count {
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  position: absolute;
+  top: -10px;
+  right: -15px;
+}
+
+/* Landing Page */
+.landing-page {
+  text-align: center;
+  padding: 2rem;
+  background-image: url('https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=2070&auto=format&fit=crop');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  color: white;
+}
+
+.landing-content {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 3rem;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 2rem;
+}
+
+.start-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.8rem 1.5rem;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.about-us {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #333;
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Product List */
+.product-list {
+  padding: 2rem;
+}
+
+.category h2 {
+  border-bottom: 2px solid #2e7d32;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+.plants-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.plant-card {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.plant-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.plant-card button {
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.plant-card button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Cart Page */
+.cart-container {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cart-item img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-right: 1rem;
+}
+
+.item-details {
+  flex-grow: 1;
+}
+
+.item-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.item-actions button {
+  padding: 0.3rem 0.6rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cart-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.continue-shopping {
+  text-decoration: none;
+  color: #2e7d32;
+  font-weight: bold;
+}
+
+.checkout-button {
+  padding: 0.8rem 1.5rem;
+  background-color: #2e7d32;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}/* ===== Responsive Header ===== */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .header .logo a {
+    font-size: 1.3rem;
+    margin-left: 0;
+  }
+
+  .header .navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+  }
+
+  .header .navigation a {
+    margin-left: 0;
+    font-size: 0.95rem;
+  }
+
+  .cart-count {
+    top: -8px;
+    right: -10px;
+    font-size: 0.7rem;
+    padding: 0.15rem 0.4rem;
+  }
+}.lang-toggle {
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+  padding: 0.3rem 0.7rem;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+  margin-left: 0.5rem;
+}
+
+.lang-toggle:hover {
+  background-color: white;
+  color: #2e7d32;
+}/* زيادة المسافة بين روابط التنقل */
+.navigation {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem; /* المسافة بين الروابط */
+}

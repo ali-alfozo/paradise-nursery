@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "home": "Home",
+    "plants": "Plants",
+    "cart": "Cart"
+  },
+  "landing": {
+    "title": "Paradise Nursery",
+    "tagline": "Where Green Meets Serenity",
+    "getStarted": "Get Started"
+  },
+  "about": {
+    "title": "About Paradise Nursery",
+    "description": "Welcome to Paradise Nursery, your one-stop shop for beautiful houseplants. We are passionate about bringing nature into your home. Our mission is to provide high-quality, healthy plants that purify the air and uplift your mood. Whether you are a seasoned plant parent or just starting, we have the perfect green companion for you."
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "added": "Added",
+    "backToPlants": "Back to Plants",
+    "price": "Price",
+    "category": "Category",
+    "unitPrice": "Unit Price",
+    "total": "Total",
+    "description": "This beautiful {{name}} is perfect for your home. It purifies the air, adds a touch of nature, and is easy to care for. Bring home a piece of paradise today!"
+  },
+  "cart": {
+    "title": "Your Shopping Cart",
+    "totalPlants": "Total Plants",
+    "totalCost": "Total Cost",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Proceed to Checkout",
+    "emptyCart": "Your cart is empty",
+    "emptyCartMessage": "Looks like you haven't added any plants yet.",
+    "delete": "Delete",
+    "comingSoon": "Coming Soon!"
+  },
+  "language": {
+    "switchTo": "العربية",
+    "english": "English",
+    "arabic": "العربية"
+  },
+  "categories": {
+    "indoor": "Indoor",
+    "outdoor": "Outdoor",
+    "succulents": "Succulents"
+  },
+  "plants": {
+    "Snake Plant": "Snake Plant",
+    "Spider Plant": "Spider Plant",
+    "Peace Lily": "Peace Lily",
+    "Rubber Plant": "Rubber Plant",
+    "ZZ Plant": "ZZ Plant",
+    "Pothos": "Pothos",
+    "Fern": "Fern",
+    "Palm Tree": "Palm Tree",
+    "Lavender": "Lavender",
+    "Rose Bush": "Rose Bush",
+    "Bamboo": "Bamboo",
+    "Jasmine": "Jasmine",
+    "Aloe Vera": "Aloe Vera",
+    "Cactus": "Cactus",
+    "String of Pearls": "String of Pearls",
+    "Jade Plant": "Jade Plant",
+    "Haworthia": "Haworthia",
+    "Peperomia": "Peperomia"
+  },
+  "plantDescriptions": {
+    "Snake Plant": "A hardy, low-maintenance plant that tolerates low light and infrequent watering. Perfect for beginners.",
+    "Spider Plant": "A fast-growing, air-purifying plant that is easy to care for and produces baby plants.",
+    "Peace Lily": "An elegant plant with white blooms that purifies the air. Prefers indirect light and regular watering.",
+    "Rubber Plant": "A stunning plant with large, glossy leaves. Thrives in bright, indirect light.",
+    "ZZ Plant": "A drought-tolerant plant with waxy leaves. Perfect for low-light spaces.",
+    "Pothos": "A trailing vine that is nearly indestructible. Great for hanging baskets.",
+    "Fern": "A lush, green plant that loves humidity and shade. Perfect for a shady garden.",
+    "Palm Tree": "A tropical plant that brings a vacation vibe to your garden. Needs plenty of sunlight.",
+    "Lavender": "A fragrant herb that attracts pollinators. Loves full sun and well-drained soil.",
+    "Rose Bush": "A classic garden plant with beautiful blooms. Requires regular watering and pruning.",
+    "Bamboo": "A fast-growing plant that adds a tropical feel. Needs space to spread.",
+    "Jasmine": "A fragrant vine with delicate white flowers. Thrives in warm, sunny spots.",
+    "Aloe Vera": "A medicinal succulent with soothing gel. Loves sunlight and infrequent watering.",
+    "Cactus": "A low-maintenance plant that stores water in its stems. Perfect for forgetful waterers.",
+    "String of Pearls": "A unique trailing succulent with pearl-like leaves. Needs bright light and careful watering.",
+    "Jade Plant": "A symbol of good luck with thick, glossy leaves. Thrives in bright light.",
+    "Haworthia": "A small, spiky succulent that is perfect for windowsills. Loves bright, indirect light.",
+    "Peperomia": "A compact, easy-to-grow plant with thick, glossy leaves. Perfect for desks and small spaces."
+  }
+}
