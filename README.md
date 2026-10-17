@@ -20,11 +20,11 @@ A modern, fully responsive e-commerce web application for an online plant shop. 
 - [About the Project](#-about-the-project)
 - [Live Demo](#-live-demo)
 - [Features](#-features)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#technologies-used)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Screenshots](#-screenshots)
-- [Author](#-author-1)
+- [Author](#author)
 
 ---
 
@@ -67,7 +67,7 @@ A modern, fully responsive e-commerce web application for an online plant shop. 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 | :--- | :--- |
