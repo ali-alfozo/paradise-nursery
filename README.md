@@ -44,6 +44,7 @@ A modern, fully responsive e-commerce web application for an online plant shop. 
 
 ### 🛍️ Shopping Experience
 - **Browse Plants:** Explore 18+ unique houseplants organized into 3 categories (Indoor, Outdoor, Succulents).
+- **Search Functionality:** Quickly find plants by name in both Arabic and English
 - **Product Details:** Click any plant to view detailed information including image, price, category, and description.
 - **Add to Cart:** Add plants to your cart with a single click.
 - **Smart Button State:** The "Add to Cart" button automatically disables and shows "Added" after adding a product.
