@@ -21,7 +21,9 @@
     "category": "Category",
     "unitPrice": "Unit Price",
     "total": "Total",
-    "description": "This beautiful {{name}} is perfect for your home. It purifies the air, adds a touch of nature, and is easy to care for. Bring home a piece of paradise today!"
+    "description": "This beautiful {{name}} is perfect for your home. It purifies the air, adds a touch of nature, and is easy to care for. Bring home a piece of paradise today!",
+    "searchPlaceholder": "Search for plants...",
+    "noResults": "No plants found matching your search."
   },
   "cart": {
     "title": "Your Shopping Cart",
