@@ -24,6 +24,30 @@
   border-radius: 2px;
 }
 
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 500px;
+  padding: 1rem 1.5rem;
+  border: 2px solid #4caf50;
+  border-radius: 50px;
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.3s ease;
+  background-color: white;
+  color: #333;
+}
+
+.search-input:focus {
+  border-color: #2e7d32;
+  box-shadow: 0 0 10px rgba(76, 175, 80, 0.3);
+}
+
 .category {
   margin-bottom: 4rem;
 }
@@ -149,5 +173,9 @@
   }
   .plant-card button {
     margin: 0 1rem 1rem 1rem;
+  }
+  .search-input {
+    padding: 0.8rem 1.2rem;
+    font-size: 0.95rem;
   }
 }
