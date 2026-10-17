@@ -1,4 +1,4 @@
- # 🌿 Paradise Nursery - React Shopping Cart
+# 🌿 Paradise Nursery - React Shopping Cart
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-State_Management-764ABC?logo=redux&logoColor=white)
@@ -12,8 +12,6 @@
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ali-alfozo/paradise-nursery)
 
 A modern, fully responsive e-commerce web application for an online plant shop. Built with **React**, **Redux Toolkit**, and **React Router**, this project simulates a real-world shopping experience for plant lovers.
-
-![Paradise Nursery](https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?q=80&w=1200&auto=format&fit=crop)
 
 ---
 
@@ -33,8 +31,6 @@ A modern, fully responsive e-commerce web application for an online plant shop. 
 ## 🌱 About the Project
 
 **Paradise Nursery** is a fully functional shopping cart application that allows users to browse a curated collection of houseplants, add them to a shopping cart, and manage their order before checkout. The application is built with a focus on **clean code**, **scalability**, and an **exceptional user experience**.
-
-This project was developed as the **Final Capstone Project** for the [Developing Front-End Apps with React](https://www.coursera.org/learn/developing-frontend-apps-with-react) course by **IBM** on **Coursera**.
 
 ---
 
@@ -162,13 +158,13 @@ npm run build
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/landing-page.png)
+![Landing Page](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/Screenshots/landing-page.png)
 
 ### 🌿 Product List
-![Product List](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/product-list.png)
+![Product List](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/Screenshots/product-list.png)
 
 ### 🛒 Shopping Cart
-![Shopping Cart](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/shopping-cart.png)
+![Shopping Cart](https://raw.githubusercontent.com/ali-alfozo/paradise-nursery/main/Screenshots/shopping-cart.png)
 
 ## 👨‍💻 Author
 **Ali Alfozo**
