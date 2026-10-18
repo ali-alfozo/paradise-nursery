@@ -23,7 +23,10 @@
     "total": "Total",
     "description": "This beautiful {{name}} is perfect for your home. It purifies the air, adds a touch of nature, and is easy to care for. Bring home a piece of paradise today!",
     "searchPlaceholder": "Search for plants...",
-    "noResults": "No plants found matching your search."
+    "noResults": "No plants found matching your search.",
+    "footerThanks": "Thank you for shopping at Paradise Nursery!",
+"footerDelivery": "Free delivery on orders over $50.",
+"footerCopyright": "© 2026 Paradise Nursery. All rights reserved."
   },
   "cart": {
     "title": "Your Shopping Cart",
@@ -53,18 +56,24 @@
     "Rubber Plant": "Rubber Plant",
     "ZZ Plant": "ZZ Plant",
     "Pothos": "Pothos",
+    "Monstera": "Monstera",
+    "Boston Fern": "Boston Fern",
     "Fern": "Fern",
     "Palm Tree": "Palm Tree",
     "Lavender": "Lavender",
     "Rose Bush": "Rose Bush",
     "Bamboo": "Bamboo",
     "Jasmine": "Jasmine",
+    "Damask Rose": "Damask Rose",
+    "Syrian Jasmine": "Syrian Jasmine",
     "Aloe Vera": "Aloe Vera",
     "Cactus": "Cactus",
     "String of Pearls": "String of Pearls",
     "Jade Plant": "Jade Plant",
     "Haworthia": "Haworthia",
-    "Peperomia": "Peperomia"
+    "Peperomia": "Peperomia",
+    "Echeveria": "Echeveria",
+    "Zebra Cactus": "Zebra Cactus"
   },
   "plantDescriptions": {
     "Snake Plant": "A hardy, low-maintenance plant that tolerates low light and infrequent watering. Perfect for beginners.",
@@ -73,17 +82,23 @@
     "Rubber Plant": "A stunning plant with large, glossy leaves. Thrives in bright, indirect light.",
     "ZZ Plant": "A drought-tolerant plant with waxy leaves. Perfect for low-light spaces.",
     "Pothos": "A trailing vine that is nearly indestructible. Great for hanging baskets.",
+    "Monstera": "A trendy indoor plant with iconic split leaves. It adds a tropical feel to any room.",
+    "Boston Fern": "A lush, feathery fern that loves humidity. Perfect for hanging baskets or bathrooms.",
     "Fern": "A lush, green plant that loves humidity and shade. Perfect for a shady garden.",
     "Palm Tree": "A tropical plant that brings a vacation vibe to your garden. Needs plenty of sunlight.",
     "Lavender": "A fragrant herb that attracts pollinators. Loves full sun and well-drained soil.",
     "Rose Bush": "A classic garden plant with beautiful blooms. Requires regular watering and pruning.",
     "Bamboo": "A fast-growing plant that adds a tropical feel. Needs space to spread.",
     "Jasmine": "A fragrant vine with delicate white flowers. Thrives in warm, sunny spots.",
+    "Damask Rose": "The iconic flower of Syria, known worldwide for its intense fragrance. A symbol of Damascus.",
+    "Syrian Jasmine": "A fragrant climbing vine that is the soul of Damascene houses. Fills the air with a sweet scent.",
     "Aloe Vera": "A medicinal succulent with soothing gel. Loves sunlight and infrequent watering.",
     "Cactus": "A low-maintenance plant that stores water in its stems. Perfect for forgetful waterers.",
     "String of Pearls": "A unique trailing succulent with pearl-like leaves. Needs bright light and careful watering.",
     "Jade Plant": "A symbol of good luck with thick, glossy leaves. Thrives in bright light.",
     "Haworthia": "A small, spiky succulent that is perfect for windowsills. Loves bright, indirect light.",
-    "Peperomia": "A compact, easy-to-grow plant with thick, glossy leaves. Perfect for desks and small spaces."
+    "Peperomia": "A compact, easy-to-grow plant with thick, glossy leaves. Perfect for desks and small spaces.",
+    "Echeveria": "A beautiful rosette-shaped succulent. Perfect for small pots and sunny windowsills.",
+    "Zebra Cactus": "A small, slow-growing succulent with striking white stripes. Great for terrariums."
   }
 }
