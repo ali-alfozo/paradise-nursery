@@ -156,6 +156,35 @@
   background-color: #9e9e9e;
 }
 
+.no-results {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #777;
+  margin-top: 2rem;
+}
+
+/* ==== Footer (تذييل الصفحة) ==== */
+.product-footer {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin-top: 4rem;
+  border-top: 2px solid #e0e0e0;
+  color: #666;
+  background-color: #f9f9f9;
+  border-radius: 15px;
+}
+
+.product-footer p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.product-footer p:first-child {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #2e7d32;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .product-list {
