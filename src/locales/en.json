@@ -47,7 +47,8 @@
   "categories": {
     "indoor": "Indoor",
     "outdoor": "Outdoor",
-    "succulents": "Succulents"
+    "succulents": "Succulents",
+    "flowering": "Flowering"
   },
   "plants": {
     "Snake Plant": "Snake Plant",
@@ -73,7 +74,15 @@
     "Haworthia": "Haworthia",
     "Peperomia": "Peperomia",
     "Echeveria": "Echeveria",
-    "Zebra Cactus": "Zebra Cactus"
+    "Zebra Cactus": "Zebra Cactus",
+    "Orchid": "Orchid",
+"Anthurium": "Anthurium",
+"Begonia": "Begonia",
+"African Violet": "African Violet",
+"Kalanchoe": "Kalanchoe",
+"Cyclamen": "Cyclamen",
+"Hibiscus": "Hibiscus",
+"Gardenia": "Gardenia"
   },
   "plantDescriptions": {
     "Snake Plant": "A hardy, low-maintenance plant that tolerates low light and infrequent watering. Perfect for beginners.",
@@ -99,6 +108,14 @@
     "Haworthia": "A small, spiky succulent that is perfect for windowsills. Loves bright, indirect light.",
     "Peperomia": "A compact, easy-to-grow plant with thick, glossy leaves. Perfect for desks and small spaces.",
     "Echeveria": "A beautiful rosette-shaped succulent. Perfect for small pots and sunny windowsills.",
-    "Zebra Cactus": "A small, slow-growing succulent with striking white stripes. Great for terrariums."
+    "Zebra Cactus": "A small, slow-growing succulent with striking white stripes. Great for terrariums.",
+    "Orchid": "An elegant flowering plant with long-lasting blooms. Prefers indirect light and high humidity.",
+"Anthurium": "A tropical plant with heart-shaped flowers. Thrives in warm, humid environments.",
+"Begonia": "A colorful flowering plant with vibrant blooms. Perfect for hanging baskets.",
+"African Violet": "A compact flowering plant with velvety leaves and purple blooms. Loves indirect light.",
+"Kalanchoe": "A succulent flowering plant with clusters of tiny blooms. Easy to care for.",
+"Cyclamen": "A beautiful winter-blooming plant with swept-back petals. Prefers cool temperatures.",
+"Hibiscus": "A tropical flowering plant with large, vibrant blooms. Loves full sun.",
+"Gardenia": "A fragrant flowering plant with white blooms. Requires high humidity and indirect light."
   }
 }
